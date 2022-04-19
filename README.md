@@ -16,17 +16,7 @@ npx hardhat help
 ```shell
 node scripts/proxydeploy.js --network rinkeby
 ```
-⚠️Can run but not finish: 
-need to add  MyMarketPlaceCoin token to constructor
-```shell
-    constructor() initializer {}
 
-    function initialize() public initializer {
-        __Ownable_init();
-        __UUPSUpgradeable_init();
-    }
-```
-https://github.com/Sotatek-DucNguyen6/smartcontract-blockchainclass-project-3/blob/main/contracts/model/marketplace/MarketplaceV1.sol
 #### Deployed to: 
 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0
 #### Implementation Address: 
